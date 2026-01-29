@@ -24,37 +24,22 @@ The goal of this repository is **consistent practice and skill growth**, so comm
 
 ```
 java-fundamentals/
+|
 ├── basics/
-│ ├── HelloWorld.java
-│ ├── Variables.java
-│ ├── DataTypes.java
-│ └── TypeCasting.java
+|
 ├── input_output/
-│ └── UserInputDemo.java
+|
 ├── conditionals/
-│ ├── IfElseDemo.java
-│ ├── SwitchCaseDemo.java
-│ └── LargestOfThree.java
+|
 ├── loops/
-│ ├── ForLoopDemo.java
-│ ├── WhileLoopDemo.java
-│ └── SumOfDigits.java
+|
 ├── patterns/
-│ ├── StarTriangle.java
-│ └── NumberPattern.java
+|
 ├── arrays/
-│ ├── ArrayBasics.java
-│ ├── MaxElement.java
-│ └── MinElement.java
+|
 ├── strings/
-│ ├── StringBasics.java
-│ ├── ReverseString.java
-│ └── PalindromeCheck.java
+|
 ├── methods/
-│ ├── MethodDemo.java
-│ └── CalculatorUsingMethods.java
+|
 └── oop_intro/
-├── ClassObjectDemo.java
-├── ConstructorDemo.java
-└── EncapsulationDemo.java
 ```
