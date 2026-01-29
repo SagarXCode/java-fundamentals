@@ -9,13 +9,14 @@ The goal of this repository is **consistent practice and skill growth**, so comm
 
 ## 📌 Topics Covered
 
-- Java syntax and basic structure  
-- Variables, data types, and type casting  
-- Input and output using `Scanner`  
-- Conditional statements and loops  
-- Pattern problems for logic building  
-- Arrays and strings (intro level)  
-- Methods and basic code modularity  
+- Java syntax and basic structure   
+- Input and output 
+- Conditional statements
+- Loops  
+- Pattern problems for logic building
+- Methods
+- Arrays
+- Strings  
 - Introduction to Object-Oriented Programming (OOP)
 
 ---
