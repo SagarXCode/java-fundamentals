@@ -35,11 +35,11 @@ java-fundamentals/
 |
 ├── patterns/
 |
+├── methods/
+|
 ├── arrays/
 |
 ├── strings/
-|
-├── methods/
 |
 └── oop_intro/
 ```
