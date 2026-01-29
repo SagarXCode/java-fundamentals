@@ -10,7 +10,8 @@ The goal of this repository is **consistent practice and skill growth**, so comm
 ## 📌 Topics Covered
 
 - Java syntax and basic structure   
-- Input and output 
+- Input and output
+- Operators
 - Conditional statements
 - Loops  
 - Pattern problems for logic building
@@ -29,6 +30,8 @@ java-fundamentals/
 ├── basics/
 |
 ├── input_output/
+|
+├── operators/
 |
 ├── conditionals/
 |
