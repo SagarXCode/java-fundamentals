@@ -29,15 +29,13 @@ java-fundamentals/
 |
 ├── basics/
 |
-├── input_output/
+├── modifiers/
 |
-├── operators/
+├── input_output/
 |
 ├── conditionals/
 |
 ├── loops/
-|
-├── patterns/
 |
 ├── methods/
 |
