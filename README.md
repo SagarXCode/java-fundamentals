@@ -45,3 +45,111 @@ java-foundations/
 |
 └── oop_intro/
 ```
+```
+Java-Learning-Roadmap/
+│
+├── 01-Basics/
+│   ├── HelloWorld.java
+│   ├── Variables.java
+│   ├── DataTypes.java
+│   ├── Operators.java
+│   ├── Conditionals/
+│   │   ├── IfElse.java
+│   │   └── SwitchCase.java
+│   ├── Loops/
+│   │   ├── ForLoop.java
+│   │   ├── WhileLoop.java
+│   │   └── DoWhileLoop.java
+│   ├── Arrays/
+│   │   ├── OneDArray.java
+│   │   └── TwoDArray.java
+│   └── Strings/
+│       └── StringMethods.java
+│
+├── 02-Core-Java/
+│   ├── OOP/
+│   │   ├── ClassAndObject.java
+│   │   ├── Constructor.java
+│   │   ├── Inheritance.java
+│   │   ├── Polymorphism.java
+│   │   ├── Encapsulation.java
+│   │   └── Abstraction.java
+│   ├── Keywords/
+│   │   ├── ThisKeyword.java
+│   │   ├── SuperKeyword.java
+│   │   └── StaticKeyword.java
+│   ├── AccessModifiers/
+│   └── WrapperClasses.java
+│
+├── 03-Intermediate-Java/
+│   ├── ExceptionHandling/
+│   │   ├── TryCatch.java
+│   │   ├── CustomException.java
+│   │   └── ThrowsKeyword.java
+│   ├── Interfaces/
+│   ├── AbstractClasses/
+│   ├── Collections/
+│   │   ├── List/
+│   │   ├── Set/
+│   │   └── Map/
+│   ├── Generics/
+│   ├── Enums/
+│   └── InnerClasses/
+│
+├── 04-Advanced-Java/
+│   ├── FileHandling/
+│   │   ├── FileIO.java
+│   │   └── NIOExample.java
+│   ├── Multithreading/
+│   │   ├── ThreadClass.java
+│   │   ├── RunnableInterface.java
+│   │   ├── Synchronization.java
+│   │   └── ExecutorFramework.java
+│   ├── Java8Features/
+│   │   ├── LambdaExpressions.java
+│   │   ├── StreamsAPI.java
+│   │   ├── FunctionalInterfaces.java
+│   │   └── OptionalClass.java
+│   ├── DateTimeAPI/
+│   ├── Serialization/
+│   └── JVM-Internals/
+│
+├── 05-Database/
+│   ├── JDBC/
+│   │   ├── ConnectionExample.java
+│   │   ├── CRUDOperations.java
+│   │   └── PreparedStatement.java
+│   └── SQL/
+│       └── queries.sql
+│
+├── 06-Tools/
+│   ├── Maven/
+│   ├── Gradle/
+│   ├── Logging/
+│   └── UnitTesting/
+│       ├── JUnit/
+│       └── Mockito/
+│
+├── 07-Design-Patterns/
+│   ├── Singleton/
+│   ├── Factory/
+│   ├── Builder/
+│   └── Observer/
+│
+├── 08-Spring-Boot/
+│   ├── Spring-Core/
+│   ├── REST-API/
+│   ├── Spring-Data-JPA/
+│   └── Microservices/
+│
+├── 09-Projects/
+│   ├── Beginner/
+│   │   └── CalculatorApp/
+│   ├── Intermediate/
+│   │   └── StudentManagementSystem/
+│   └── Advanced/
+│       └── RESTfulBackend/
+│
+├── README.md
+└── .gitignore
+```
