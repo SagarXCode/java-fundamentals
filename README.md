@@ -10,16 +10,16 @@ The goal of this repository is **consistent practice and skill growth**, so comm
 ## 📌 Topics Covered
 
 ### 01. Basics
-Covers the foundational building blocks of Java programming, including program structure, variables, data types, operators, control flow statements, loops, arrays, and string handling.
+Covers the foundational building blocks of Java programming, including program structure (Hello World!), variables, data types, operators, conditional (if-else, switch), Loops (for, while, do-while), Arrays (1D and 2D), and string handling.
 
 ### 02. Core Java
-Focuses on core object-oriented programming principles such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction, along with essential Java keywords, access modifiers, and wrapper classes.
+Focuses on core object-oriented programming (OOP) principles such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction, along with essential Java keywords (this, super, static), access modifiers, and wrapper classes.
 
 ### 03. Intermediate Java
-Introduces intermediate-level concepts including exception handling, interfaces, abstract classes, collections framework, generics, enums, and inner classes to build robust and reusable applications.
+Introduces intermediate-level concepts including exception handling (try-catch, throws, custom exceptions), interfaces, abstract classes, collections framework (List, Set, Map), generics, enums, and inner classes to build robust and reusable applications.
 
 ### 04. Advanced Java
-Explores advanced Java topics such as file handling using IO and NIO, multithreading and concurrency, Java 8 features, Date and Time API, serialization, and JVM internals.
+Explores advanced Java topics such as file handling using IO and NIO, multithreading and concurrency (Thread, Runnable, Synchronization, Executors), Java 8 features (Lambdas, Streams, Optional), Date and Time API, serialization, and JVM internals.
 
 ---
 
