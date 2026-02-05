@@ -29,8 +29,13 @@ public class BitwiseOperators {
         // 0010 becomes 0001 (1)
         System.out.println("b >> 1 (Right Shift): " + (b >> 1));
 
+
         // 7. Bitwise Unsigned Right Shift
-        
+        // Unsigned Right Shift by 2 (num >>> 2)
+        // Step 1: Start with 0001
+        // Step 2: Shift right 1 -> 0000 (the 1 moves to the last slot)
+        // Step 3: Shift right 2 -> 0000 (the 1 is pushed out completely)
+        // Left side is always filled with 0s.
         System.out.println("Bitwise Unsigned Right Shift: " + (a >>> 2));
     }
 }
