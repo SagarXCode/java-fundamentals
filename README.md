@@ -42,7 +42,11 @@ Java-Learning-Roadmap/
 │   │   └── DoWhileLoop.java
 │   ├── Arrays/
 │   │   ├── OneDArray.java
-│   │   └── TwoDArray.java
+│   │   ├── TwoDArray.java
+│   │   ├── ArrayTraversal.java
+│   │   ├── ArrayOperations.java
+│   │   ├── ArrayMethods.java    
+│   │   └── PassingArray.java
 │   └── Strings/
 │       └── StringMethods.java
 │
