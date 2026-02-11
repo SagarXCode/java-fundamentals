@@ -47,7 +47,35 @@ Java-Learning-Roadmap/
 │   │   ├── ArrayMethods.java    
 │   │   └── PassingArray.java
 │   └── Strings/
-│       └── StringMethods.java
+│       ├── StringDeclaration.java
+│       ├── StringInputOutput.java
+│       ├── StringLengthAndCharAt.java
+│       ├── StringComparison.java
+│       ├── StringConcatenation.java
+│       ├── StringSubstring.java
+│       ├── StringSearching.java
+│       ├── StringCaseConversion.java
+│       ├── StringTrimAndReplace.java
+│       ├── StringSplitAndJoin.java
+│       ├── StringImmutabilityDemo.java
+│       ├── StringBuilderDemo.java
+│       ├── StringBufferDemo.java
+│       ├── StringToNumberConversion.java
+│       ├── NumberToStringConversion.java
+│       ├── StringFormattingDemo.java
+│       ├── StringRegexValidation.java
+│       ├── StringPerformanceTest.java
+│       │
+│       ├── ReverseString.java
+│       ├── PalindromeCheck.java
+│       ├── CountVowels.java
+│       ├── CountCharacterFrequency.java
+│       ├── RemoveDuplicatesFromString.java
+│       ├── AnagramCheck.java
+│       ├── LongestSubstringWithoutRepeating.java
+│       ├── StringCompression.java
+│       ├── CapitalizeEachWord.java
+│       └── RemoveWhiteSpaces.java
 │
 ├── 02-Core-Java/
 │   ├── OOP/
