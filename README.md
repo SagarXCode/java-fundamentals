@@ -31,8 +31,7 @@ Java-Fundamentals/
 ├── 01-Basics/
 │   ├── HelloWorld.java
 │   │ 
-│   ├── Comments/
-│   │   └── CommentsDemo.java
+│   ├── Comments
 │   │
 │   ├── Variables.java
 │   ├── DataTypes.java
