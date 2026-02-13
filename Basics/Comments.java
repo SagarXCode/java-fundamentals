@@ -1,4 +1,4 @@
-public class comments {
+public class Comments {
     public static void main(String[] args) {
         // 1. This is a single-line comment
         System.out.println("Hello, Java!");
