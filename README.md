@@ -10,16 +10,16 @@ The goal of this repository is **consistent practice and skill growth**, so comm
 ## 📌 Topics Covered
 
 ### 01. Basics
-Covers the foundational building blocks of Java programming, including program structure (Hello World!), variables, data types, operators, conditional (if-else, switch), Loops (for, while, do-while), Arrays (1D and 2D), and string handling.
+Introduces the fundamentals of Java including program structure, comments, variables, data types, type casting, constants, user input (Scanner), operators, conditionals, loops, methods (overloading and recursion), arrays, and comprehensive string handling. Also covers Math & Random utilities, command-line arguments, pattern printing, and basic problem-solving programs.
 
 ### 02. Core Java
-Focuses on core object-oriented programming (OOP) principles such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction, along with essential Java keywords (this, super, static), access modifiers, and wrapper classes.
+Covers object-oriented programming (OOP) concepts such as classes, objects, constructors, inheritance, polymorphism, encapsulation, abstraction, key Java keywords (this, super, static), access modifiers, and wrapper classes.
 
 ### 03. Intermediate Java
-Introduces intermediate-level concepts including exception handling (try-catch, throws, custom exceptions), interfaces, abstract classes, collections framework (List, Set, Map), generics, enums, and inner classes to build robust and reusable applications.
+Includes exception handling, interfaces, abstract classes, Collections Framework (List, Set, Map), generics, enums, and inner classes for building modular applications.
 
 ### 04. Advanced Java
-Explores advanced Java topics such as file handling using IO and NIO, multithreading and concurrency (Thread, Runnable, Synchronization, Executors), Java 8 features (Lambdas, Streams, Optional), Date and Time API, serialization, and JVM internals.
+Explores file handling (IO/NIO), multithreading and concurrency, Java 8 features (Lambdas, Streams, Optional), Date & Time API, serialization, and JVM internals.
 
 ---
 
