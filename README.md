@@ -56,9 +56,6 @@ Java-Fundamentals/
 │   │   ├── ImplicitCasting.java
 │   │   └── ExplicitCasting.java
 │   │
-│   ├── Constants/
-│   │   └── FinalKeywordDemo.java
-│   │
 │   ├── Input/
 │   │   ├── ScannerBasics.java
 │   │   ├── TakingIntegerInput.java
