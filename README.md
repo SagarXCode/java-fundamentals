@@ -112,10 +112,6 @@ Java-Fundamentals/
 │   │   ├── CountVowels.java
 │   │   ├── CountCharacterFrequency.java
 │   │   ├── RemoveDuplicatesFromString.java
-│   │   ├── AnagramCheck.java
-│   │   ├── LongestSubstringWithoutRepeating.java
-│   │   ├── StringCompression.java
-│   │   ├── CapitalizeEachWord.java
 │   │   └── RemoveWhiteSpaces.java
 │   │
 │   ├── MathAndRandom/
