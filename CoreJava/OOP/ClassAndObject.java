@@ -16,7 +16,6 @@ public class ClassAndObject {
 
         s1.id = 101;
         s1.name = "Rahul";
-
         s1.display();
     }
 }
