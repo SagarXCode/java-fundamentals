@@ -16,8 +16,7 @@ commits may be frequent and incremental, reflecting my learning progress.
 Introduces the fundamentals of Java including program structure, Comments,
 variables, data types, type casting, constants, user input (Scanner), operators,
 conditionals, loops, methods (overloading and recursion), arrays, and
-comprehensive string handling. Also covers Math & Random utilities, command-line
-arguments, pattern printing, and basic problem-solving programs.
+comprehensive string handling.
 
 ### 02. Core Java
 
