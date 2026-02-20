@@ -87,51 +87,33 @@ Java-Fundamentals/
 │   │   ├── ArrayMethods.java
 │   │   └── PassingArray.java
 │   │
-│   ├── Strings/
-│   │   ├── StringDeclaration.java
-│   │   ├── StringInputOutput.java
-│   │   ├── StringLengthAndCharAt.java
-│   │   ├── StringComparison.java
-│   │   ├── StringConcatenation.java
-│   │   ├── StringSubstring.java
-│   │   ├── StringSearching.java
-│   │   ├── StringCaseConversion.java
-│   │   ├── StringTrimAndReplace.java
-│   │   ├── StringSplitAndJoin.java
-│   │   ├── StringImmutabilityDemo.java
-│   │   ├── StringBuilderDemo.java
-│   │   ├── StringBufferDemo.java
-│   │   ├── StringToNumberConversion.java
-│   │   ├── NumberToStringConversion.java
-│   │   ├── StringFormattingDemo.java
-│   │   ├── StringRegexValidation.java
-│   │   ├── StringPerformanceTest.java
-│   │   │
-│   │   ├── ReverseString.java
-│   │   ├── PalindromeCheck.java
-│   │   ├── CountVowels.java
-│   │   ├── CountCharacterFrequency.java
-│   │   ├── RemoveDuplicatesFromString.java
-│   │   └── RemoveWhiteSpaces.java
-│   │
-│   ├── MathAndRandom/
-│   │   ├── MathClassDemo.java
-│   │   └── RandomNumberGeneration.java
-│   │
-│   ├── CommandLineArguments/
-│   │   └── CommandLineArgsDemo.java
-│   │
-│   ├── Patterns/
-│   │   ├── StarPatterns.java
-│   │   ├── NumberPatterns.java
-│   │   └── PyramidPatterns.java
-│   │
-│   └── BasicPrograms/
-│       ├── PrimeNumberCheck.java
-│       ├── Factorial.java
-│       ├── FibonacciSeries.java
-│       ├── GCD_LCM.java
-│       └── ArmstrongNumber.java
+│   └── Strings/
+│       ├── StringDeclaration.java
+│       ├── StringInputOutput.java
+│       ├── StringLengthAndCharAt.java
+│       ├── StringComparison.java
+│       ├── StringConcatenation.java
+│       ├── StringSubstring.java
+│       ├── StringSearching.java
+│       ├── StringCaseConversion.java
+│       ├── StringTrimAndReplace.java
+│       ├── StringSplitAndJoin.java
+│       ├── StringImmutabilityDemo.java
+│       ├── StringBuilderDemo.java
+│       ├── StringBufferDemo.java
+│       ├── StringToNumberConversion.java
+│       ├── NumberToStringConversion.java
+│       ├── StringFormattingDemo.java
+│       ├── StringRegexValidation.java
+│       ├── StringPerformanceTest.java
+│       │
+│       ├── ReverseString.java
+│       ├── PalindromeCheck.java
+│       ├── CountVowels.java
+│       ├── CountCharacterFrequency.java
+│       ├── RemoveDuplicatesFromString.java
+│       └── RemoveWhiteSpaces.java
+│    
 │
 ├── 02-Core-Java/
 │   ├── OOP/
