@@ -1,12 +1,12 @@
 package OOP;
 
-class Animal {
+class Animals {
     void eat() {
         System.out.println("Animal is Eating...");
     }
 }
 
-class Dog extends Animal {
+class Dogs extends Animals {
     void bark() {
         System.out.println("Dog is Barking...");
     }
@@ -15,8 +15,8 @@ class Dog extends Animal {
 
 public class Inheritance {
     public static void main(String[] args) {
-        Dog dog = new Dog();
-        dog.eat(); // Inherited method from Animal class
-        dog.bark(); // Dog's own method
+        Dogs dogs = new Dogs();
+        dogs.eat(); // Inherited method from Animal class
+        dogs.bark(); // Dog's own method
     }
 }
